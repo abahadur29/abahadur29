@@ -67,12 +67,55 @@ NSS Project Representative 🌱
 
 ---
 
-### 🏅 Certificates
+### 📜 Certifications & Achievements
 
-- ✅ **AWS Academy Cloud Architecting** – Scored 97.05%
-- 🧠 **Supervised Machine Learning** – Coursera (Stanford University)
-- 🛠️ **Java + Python Programming Masterclass** – Udemy
-- 📊 **Power BI for Business Intelligence** – Maven Analytics (In Progress)
+- 🟠 **AWS Academy Cloud Architecting**  
+  *Issued by Amazon Web Services (AWS), Dec 2024 – Dec 2034*  
+  Credential ID: `AWS_Academy_Graduate___AWS_Academy_Cloud_Architecting_Badge20241213-26-54db5z`  
+  **Skills:** Architecting Solutions on AWS · AWS Cloud Best Practices · Infrastructure Design
+
+- 🟡 **AWS Academy Cloud Foundations**  
+  *Issued by Amazon Web Services (AWS), Dec 2024 – Dec 2034*  
+  Credential ID: `AWS_Academy_Graduate_AWS_Academy_Cloud_Foundations_Badge_20241206-27_sqgknf`  
+  **Skills:** AWS Architecture · Cloud Core Services · Pricing Models · AWS Support
+
+- 🧠 **Business Analytics for Decision Making**  
+  *Issued by Coursera (University of Colorado Boulder), Dec 2024*  
+  Credential ID: `FTR5N0HQ8Q79`  
+  **Skills:** Data-Driven Decision Making · Analytical Thinking · Data Analysis
+
+- 🤖 **AI Tools Workshop – Be10x**  
+  *Issued by Be10x, Dec 2023*  
+  **Skills:** AI Tools · Generative AI · Workflow Automation · Productivity Enhancement
+
+- 👨‍💻 **Java DSA Masterclass**  
+  *Issued by Udemy, Oct 2024*  
+  Credential ID: `UC-20cc86d5-6a2a-4b5a-986e-c501ddf506f1`  
+  **Skills:** Java Programming · Algorithms · Dynamic Programming · Graphs · Technical Interview Prep
+
+- 🐍 **Complete Python Bootcamp (Zero to Hero)**  
+  *Issued by Udemy, Jun 2024*  
+  Credential ID: `UC-811a13fc-b1f1-44f3-8755-66f71248bcf5`  
+  **Skills:** Python · OOP · Web Scraping · File Handling · GUI · Games · Jupyter
+
+- 💡 **UiPath Hack-a-bot Participation**  
+  *Issued by UiPath, Nov 2024*  
+  **Skills:** RPA · Collaboration · Automation Bots · Project Management
+
+- 🚀 **CodeKaze’24 – Competitive Programming**  
+  *Issued by Coding Ninjas, Oct 2024*  
+  Credential ID: `411022`  
+  **Skills:** Problem Solving · DSA · Debugging · Time Management
+
+- 🛒 **Flipkart GRID 6.0 – E-Commerce Software Track**  
+  *Issued by Unstop, Aug 2024*  
+  Credential ID: `9fe308fe-0ec6-4845-8706-78d2de5ac99c`  
+  **Skills:** Software Development · Competitive Analysis · E-Commerce Tech
+
+- 🔍 **Kode Sphere v1.0 – KIIT Hackathon**  
+  *Issued by Konnexions KIIT, Mar 2024*  
+  **Skills:** Team Coding · Problem-Solving · Logistic Regression · Innovation
+
 
 ---
 
