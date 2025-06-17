@@ -71,7 +71,8 @@ NSS Project Representative 🌱
 
 -  🟢 **Certified ServiceNow Administrator (CSA)**  
   *Issued by ServiceNow, Jun 2025 – No Expiry*  
-  [🎓 Credential](https://www.credly.com/badges/582b7dcf-5a3b-4ae0-8cf1-80885c336806/public_url)  
+  [🎓 Credential](https://www.credly.com/badges/582b7dcf-5a3b-4ae0-8cf1-80885c336806/public_url)
+  Certificate: ![ServiceNowCSA](https://github.com/user-attachments/assets/748972c2-a303-4efb-ac37-ff8dc42925d4)
   **Skills:** ITSM · ServiceNow Platform Administration · Flow Designer · User/Role Management · Workflow Automation
 
 -  🔗 **Graph Theory Mastery Camp – AlgoUniversity**  
@@ -81,31 +82,31 @@ NSS Project Representative 🌱
   **Achievements:** Rank 27 in college contest · 10% Merit Scholarship · Direct entry into Accelerator Camp  
   **Skills:** Graph Theory · Algorithms · Competitive Programming · Problem Solving
 
-- 🟠 **AWS Academy Cloud Architecting**  
+- 🟠 [**AWS Academy Cloud Architecting**](https://github.com/user-attachments/assets/b068133e-99d9-4146-ba58-d4a160fd952d)  
   *Issued by Amazon Web Services (AWS), Dec 2024 – Dec 2034*  
   Credential ID: `AWS_Academy_Graduate___AWS_Academy_Cloud_Architecting_Badge20241213-26-54db5z`  
   **Skills:** Architecting Solutions on AWS · AWS Cloud Best Practices · Infrastructure Design
 
-- 🟡 **AWS Academy Cloud Foundations**  
+- 🟡 [**AWS Academy Cloud Foundations**](https://github.com/user-attachments/assets/115cfa14-18e3-46fa-af5e-8cd6b0976a5a)  
   *Issued by Amazon Web Services (AWS), Dec 2024 – Dec 2034*  
   Credential ID: `AWS_Academy_Graduate_AWS_Academy_Cloud_Foundations_Badge_20241206-27_sqgknf`  
   **Skills:** AWS Architecture · Cloud Core Services · Pricing Models · AWS Support
 
-- 🧠 **Business Analytics for Decision Making**  
+- 🧠 [**Business Analytics for Decision Making**](https://github.com/user-attachments/assets/03f439ff-bf7b-48f6-b1f2-62177df57c47)  
   *Issued by Coursera (University of Colorado Boulder), Dec 2024*  
   Credential ID: `FTR5N0HQ8Q79`  
   **Skills:** Data-Driven Decision Making · Analytical Thinking · Data Analysis
 
-- 🤖 **AI Tools Workshop – Be10x**  
+- 🤖 [**AI Tools Workshop – Be10x**](https://github.com/user-attachments/assets/3723af9a-c6f5-4c0d-b6db-79b4e1dadb7e)  
   *Issued by Be10x, Dec 2023*  
   **Skills:** AI Tools · Generative AI · Workflow Automation · Productivity Enhancement
 
-- 👨‍💻 **Java DSA Masterclass**  
+- 👨‍💻 [**Java DSA Masterclass**](https://github.com/user-attachments/assets/dac59c4b-c1a6-4f10-a48d-897e0af8dfb6)  
   *Issued by Udemy, Oct 2024*  
   Credential ID: `UC-20cc86d5-6a2a-4b5a-986e-c501ddf506f1`  
   **Skills:** Java Programming · Algorithms · Dynamic Programming · Graphs · Technical Interview Prep
 
-- 🐍 **Complete Python Bootcamp (Zero to Hero)**  
+- 🐍 [**Complete Python Bootcamp (Zero to Hero)**](https://github.com/user-attachments/assets/9de48e1e-ea95-4bf1-b465-be3040e4dc18)  
   *Issued by Udemy, Jun 2024*  
   Credential ID: `UC-811a13fc-b1f1-44f3-8755-66f71248bcf5`  
   **Skills:** Python · OOP · Web Scraping · File Handling · GUI · Games · Jupyter
