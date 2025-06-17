@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Bahadur</h1>
 <h3 align="center">
+Certified ServiceNow Administrator (CSA) 🟢 <br>
 Aspiring Software Engineer | KIIT CSE ’26 🎓 <br>
 Java & Python 💻 | AI/ML 🤖 • Cloud ☁️ • Data Analytics 📊 <br>
 NSS Project Representative 🌱
