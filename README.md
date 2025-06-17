@@ -6,7 +6,7 @@ NSS Project Representative 🌱
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Lover;Open+Source+Contributor;AWS+Cloud+Intern;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=DSA+Lover;Certified+ServiceNow+Administrator+(CSA);Open+Source+Contributor;AWS+Cloud+Intern;Always+Learning+New+Things" />
 </p>
 
 ---
