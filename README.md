@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Bahadur</h1>
+![AlgoUniversityGraphTheory](https://github.com/user-attachments/assets/80057d03-18c5-4990-8461-75339269da40)<h1 align="center">Hi 👋, I'm Aditya Bahadur</h1>
 <h3 align="center">
 Aspiring Software Engineer | KIIT CSE ’26 🎓 <br>
 Java & Python 💻 | AI/ML 🤖 • Cloud ☁️ • Data Analytics 📊 <br>
@@ -68,6 +68,18 @@ NSS Project Representative 🌱
 ---
 
 ### 📜 Certifications & Achievements
+
+-  🟢 **Certified ServiceNow Administrator (CSA)**  
+  *Issued by ServiceNow, Jun 2025 – No Expiry*  
+  [🎓 Credential](https://www.credly.com/badges/582b7dcf-5a3b-4ae0-8cf1-80885c336806/public_url)  
+  **Skills:** ITSM · ServiceNow Platform Administration · Flow Designer · User/Role Management · Workflow Automation
+
+-  🔗 **Graph Theory Mastery Camp – AlgoUniversity**  
+  *Completed under Codeforces Master Manas Kumar Verma, 2025*  
+  ![Certificate]([AlgoUniversityGraphTheory](https://github.com/user-attachments/assets/13831cec-9cd3-4cbe-8e5b-ce01f3cf20c8)
+  **Highlights:** Solved 13+ advanced graph problems (BFS/DFS, Topological Sort, Shortest Paths)  
+  **Achievements:** Rank 27 in college contest · 10% Merit Scholarship · Direct entry into Accelerator Camp  
+  **Skills:** Graph Theory · Algorithms · Competitive Programming · Problem Solving
 
 - 🟠 **AWS Academy Cloud Architecting**  
   *Issued by Amazon Web Services (AWS), Dec 2024 – Dec 2034*  
