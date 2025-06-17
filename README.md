@@ -69,10 +69,9 @@ NSS Project Representative 🌱
 
 ### 📜 Certifications & Achievements
 
--  🟢 **Certified ServiceNow Administrator (CSA)**  
+- 🟢 [**Certified ServiceNow Administrator (CSA)**](https://github.com/user-attachments/assets/748972c2-a303-4efb-ac37-ff8dc42925d4)  
   *Issued by ServiceNow, Jun 2025 – No Expiry*  
-  [🎓 Credential](https://www.credly.com/badges/582b7dcf-5a3b-4ae0-8cf1-80885c336806/public_url)
-  Certificate: ![ServiceNowCSA](https://github.com/user-attachments/assets/748972c2-a303-4efb-ac37-ff8dc42925d4)
+  ![CSA Certificate](https://github.com/user-attachments/assets/748972c2-a303-4efb-ac37-ff8dc42925d4)  
   **Skills:** ITSM · ServiceNow Platform Administration · Flow Designer · User/Role Management · Workflow Automation
 
 -  🔗 **Graph Theory Mastery Camp – AlgoUniversity**  
