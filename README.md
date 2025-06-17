@@ -1,4 +1,4 @@
-![AlgoUniversityGraphTheory](https://github.com/user-attachments/assets/80057d03-18c5-4990-8461-75339269da40)<h1 align="center">Hi 👋, I'm Aditya Bahadur</h1>
+<h1 align="center">Hi 👋, I'm Aditya Bahadur</h1>
 <h3 align="center">
 Aspiring Software Engineer | KIIT CSE ’26 🎓 <br>
 Java & Python 💻 | AI/ML 🤖 • Cloud ☁️ • Data Analytics 📊 <br>
