@@ -122,21 +122,22 @@ Grateful to the **Keploy** team for this enriching opportunity to learn, build, 
   Credential ID: `UC-811a13fc-b1f1-44f3-8755-66f71248bcf5`  
   **Skills:** Python · OOP · Web Scraping · File Handling · GUI · Games · Jupyter
 
-- 💡 **UiPath Hack-a-bot Participation**  
+- 💡 [**UiPath Hack-a-bot Participation**](https://drive.google.com/file/d/1W5157h2e28QufvmR7Ea7XnX5CkHXK5as/view?usp=sharing)  
   *Issued by UiPath, Nov 2024*  
   **Skills:** RPA · Collaboration · Automation Bots · Project Management
 
-- 🚀 **CodeKaze’24 – Competitive Programming**  
+- 🚀 [**CodeKaze’24 – Competitive Programming**](https://drive.google.com/file/d/1xrxEgE3JpUT9Ak5C8o44L4WWYqiNApf5/view?usp=sharing)  
   *Issued by Coding Ninjas, Oct 2024*  
-  Credential ID: `411022`  
+  **Credential ID:** `411022`  
   **Skills:** Problem Solving · DSA · Debugging · Time Management
 
 - 🛒 **Flipkart GRID 6.0 – E-Commerce Software Track**  
+  <img width="424" alt="Flipkart GRID 6.0 Certificate" src="https://github.com/user-attachments/assets/63ae9f44-3bb7-4b05-b7b0-7b87383e4720" />  
   *Issued by Unstop, Aug 2024*  
-  Credential ID: `9fe308fe-0ec6-4845-8706-78d2de5ac99c`  
+  **Credential ID:** `9fe308fe-0ec6-4845-8706-78d2de5ac99c`  
   **Skills:** Software Development · Competitive Analysis · E-Commerce Tech
 
-- 🔍 **Kode Sphere v1.0 – KIIT Hackathon**  
+- 🔍 [**Kode Sphere v1.0 – KIIT Hackathon**](https://drive.google.com/file/d/1HEwFbTwvhnOxOuDGxx9FYj-3wyRiXhyA/view?usp=sharing)  
   *Issued by Konnexions KIIT, Mar 2024*  
   **Skills:** Team Coding · Problem-Solving · Logistic Regression · Innovation
 
