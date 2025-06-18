@@ -70,19 +70,18 @@ NSS Project Representative 🌱
 
 ### 📜 Certifications & Achievements
 
-### 🏅 Keploy API Fellowship 2025
+### 🏅 Keploy API Fellowship 2025  
+Selected from over **18,500 global applicants** for the prestigious **Keploy API Fellowship Program**.
 
-🎉 Selected out of **18,500+ global applicants** for the prestigious Keploy API Fellowship Program.
+**Currently Engaged In:**  
+- Developing and testing real-world **APIs**  
+- Building projects using **open-source tools** and **automation frameworks**  
+- Collaborating with a global cohort of **1,000 selected developers**  
+- Progressing toward earning multiple **skill-based badges & certifications**
 
-🚀 **What I’m Doing:**
-- Working on **real-world API development** and **automated testing**
-- Building projects using **open-source tools** and **automation frameworks**
-- Collaborating with a global tech community of **1,000 selected developers**
-- Aiming to earn multiple **skill-based badges & certifications** as the program progresses
+Grateful to the **Keploy** team for this enriching opportunity to learn, build, and grow.
 
-🧠 I'm truly grateful to the **Keploy 🐰 team** for this incredible opportunity to learn, build, and grow.
-
-🔗 [View the original post on LinkedIn](https://www.linkedin.com/posts/aditya-bahadur-b3b709197_keploy-apifellowship-opensource-activity-7185403471301429248-wuj2)
+🔗 [View the original post on LinkedIn](https://www.linkedin.com/posts/aditya-bahadur-b3b709197_keploy-apifellowship-opensource-activity-7330824052837699585-4Rlg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC4zhx8BvHHWSkCzLWeT_gJ7AqFJsTErjxU)
 
 - 🟢 [**Certified ServiceNow Administrator (CSA)**](https://github.com/user-attachments/assets/748972c2-a303-4efb-ac37-ff8dc42925d4)  
   *Issued by ServiceNow, Jun 2025 – No Expiry*   
