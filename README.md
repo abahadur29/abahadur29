@@ -132,10 +132,10 @@ Grateful to the **Keploy** team for this enriching opportunity to learn, build, 
   **Skills:** Problem Solving · DSA · Debugging · Time Management
 
 - 🛒 [**Flipkart GRID 6.0 – E-Commerce Software Track**](https://drive.google.com/file/d/11xVaAPQVGOyicjGfO9Ic_UVnUtLPZCLc/view?usp=sharing)  
-  <img width="424" alt="Flipkart GRID 6.0 Certificate" src="https://github.com/user-attachments/assets/63ae9f44-3bb7-4b05-b7b0-7b87383e4720" />  
   *Issued by Unstop, Aug 2024*  
   **Credential ID:** `9fe308fe-0ec6-4845-8706-78d2de5ac99c`  
   **Skills:** Software Development · Competitive Analysis · E-Commerce Tech
+
 
 - 🔍 [**Kode Sphere v1.0 – KIIT Hackathon**](https://drive.google.com/file/d/1HEwFbTwvhnOxOuDGxx9FYj-3wyRiXhyA/view?usp=sharing)  
   *Issued by Konnexions KIIT, Mar 2024*  
